@@ -32,7 +32,6 @@
 				<td>:</td>
 				<td>
 					<input name="email" type="text">
-					<abbr title="hint: sample@example.com"><b>i</b></abbr>
 				</td>
 				<td></td>
 			</tr>		
