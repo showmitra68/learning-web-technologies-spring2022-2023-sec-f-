@@ -1,0 +1,4 @@
+showmitra|1234|Showmitra Roy|showmitraroynill@gmail.com|Male|2001-11-30|Admin
+nill|1234|Nill Roy|nill@gmail.com|Male|2023-03-08|Customer
+asif|1234|Asif|asif@gmail.com|Male|2023-03-09|Vendor
+hajjaj|1234|Hajjaj|hajjaj@gmail.com|Male|2023-03-15|Deliveryman
